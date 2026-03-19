@@ -20,7 +20,7 @@ DB_NAME="${DB_NAME:-cgame}"
 MYSQL_ROOT_PASS="${MYSQL_ROOT_PASS:-Noname@2022}"
 SQL_FILE="${SQL_FILE:-/root/cgame.sql}"
 
-REDIS_PASS="${REDIS_PASS:-12345678}"
+REDIS_PASS="${REDIS_PASS:-12345678a}"
 
 PMA_VERSION="${PMA_VERSION:-5.2.1}"
 PMA_DIR="${PMA_DIR:-/www/wwwroot/phpmyadmin}"
